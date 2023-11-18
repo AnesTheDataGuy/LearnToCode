@@ -1,0 +1,52 @@
+body {
+  ;
+  padding: 0;
+  background-color: #0892D0;
+  color: #f5f6f7;
+  font-family: Verdana;
+  font-size: 16px;
+  background-image: url(https://media.istockphoto.com/id/692869260/photo/aerial-panorama-over-healthy-green-crops-in-patchwork-pasture-farmland.jpg?s=612x612&w=0&k=20&c=AkR5MZyTBPy4UJbv5kh8u_hTYOEBGBOP6Qw2ITUM06Y=);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1,p {
+  margin: 1em auto;
+  text-align: center;
+}
+
+p {
+
+}
+form {
+  background-color: #06720D;
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 0em;
+}
+
+fieldset {
+  border: none;
+  padding: 1em;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+input,
+textarea,
+select {
+  margin: 1.5px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
